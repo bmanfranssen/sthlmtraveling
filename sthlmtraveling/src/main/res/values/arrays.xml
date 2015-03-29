@@ -19,8 +19,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="when_choice">
-        <item>Departure time</item>
-        <item>Arrival time</item>
+        <item>Vertrektijd</item>
+        <item>Aankomsttijd</item>
     </string-array>
 
     <!-- Preferences -->
@@ -29,7 +29,7 @@
         <item>Svenska</item><!-- Do not translate -->
         <item>English</item><!-- Do not translate -->
         <item>Español</item><!-- Do not translate -->
-        <item>Dutch</item><!-- Do not translate -->
+        <item>Nederlands</item><!-- Do not translate -->
     </string-array>
     <string-array name="entryvalues_language_preference">
         <item>system</item><!-- Do not translate -->
